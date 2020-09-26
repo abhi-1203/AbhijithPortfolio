@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AbhijithPortfolio/static/css/main.4debb400.chunk.css",
+    "main.js": "/AbhijithPortfolio/static/js/main.05ec2846.chunk.js",
+    "main.js.map": "/AbhijithPortfolio/static/js/main.05ec2846.chunk.js.map",
+    "runtime-main.js": "/AbhijithPortfolio/static/js/runtime-main.cd2775bf.js",
+    "runtime-main.js.map": "/AbhijithPortfolio/static/js/runtime-main.cd2775bf.js.map",
+    "static/js/2.2a9e461e.chunk.js": "/AbhijithPortfolio/static/js/2.2a9e461e.chunk.js",
+    "static/js/2.2a9e461e.chunk.js.map": "/AbhijithPortfolio/static/js/2.2a9e461e.chunk.js.map",
+    "index.html": "/AbhijithPortfolio/index.html",
+    "precache-manifest.6e37af699fd4c30b0f0b0c05653f2946.js": "/AbhijithPortfolio/precache-manifest.6e37af699fd4c30b0f0b0c05653f2946.js",
+    "service-worker.js": "/AbhijithPortfolio/service-worker.js",
+    "static/css/main.4debb400.chunk.css.map": "/AbhijithPortfolio/static/css/main.4debb400.chunk.css.map",
+    "static/js/2.2a9e461e.chunk.js.LICENSE.txt": "/AbhijithPortfolio/static/js/2.2a9e461e.chunk.js.LICENSE.txt",
+    "static/media/abhijith.JPG": "/AbhijithPortfolio/static/media/abhijith.9f8ebab8.JPG",
+    "static/media/map.png": "/AbhijithPortfolio/static/media/map.af461aa7.png",
+    "static/media/project1.jpg": "/AbhijithPortfolio/static/media/project1.c1e11aca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd2775bf.js",
+    "static/js/2.2a9e461e.chunk.js",
+    "static/css/main.4debb400.chunk.css",
+    "static/js/main.05ec2846.chunk.js"
+  ]
+}
